@@ -1,0 +1,27 @@
+{
+  "name": "scambux",
+  "version": "1.0.0",
+  "description": "scam",
+  "main": "fetch.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "scripts": {
+    "test": "fetch-scambux",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgclue/scamFreeRobuxTokenStealer.git"
+  },
+  "keywords": [
+    "yea"
+  ],
+  "author": "fgclue",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/fgclue/scamFreeRobuxTokenStealer/issues"
+  },
+  "homepage": "https://github.com/fgclue/scamFreeRobuxTokenStealer#readme"
+}
